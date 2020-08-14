@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import { CardList } from './components/card_list/card_list.component'
+const champUrl = 'http://ddragon.leagueoflegends.com/cdn/10.16.1/data/es_MX/champion.json'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component{
+
+  constructor(){
+    super()
+    
+    this.state = { 
+      champs: []
+    }
+  }
+
+  async componentDidMount(){
+    const champs = await fetch(champUrl).then(r => r.json())
+
+    console.log(champs.data)
+
+    this.setState({champs: Object.values(champs.data)})
+  }
+
+  render() {
+    return (
+      <div className="App">
+          <CardList champs={this.state.champs}/>
+      </div>
+    )
+  }
 }
 
-export default App;
+
+export default App
