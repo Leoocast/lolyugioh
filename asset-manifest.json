@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/leoocast.github.io/lolyugioh/static/css/main.575c63fe.chunk.css",
+    "main.js": "/leoocast.github.io/lolyugioh/static/js/main.e544f8e1.chunk.js",
+    "main.js.map": "/leoocast.github.io/lolyugioh/static/js/main.e544f8e1.chunk.js.map",
+    "runtime-main.js": "/leoocast.github.io/lolyugioh/static/js/runtime-main.2aefede5.js",
+    "runtime-main.js.map": "/leoocast.github.io/lolyugioh/static/js/runtime-main.2aefede5.js.map",
+    "static/js/2.582b4e21.chunk.js": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js",
+    "static/js/2.582b4e21.chunk.js.map": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js.map",
+    "index.html": "/leoocast.github.io/lolyugioh/index.html",
+    "precache-manifest.230dac41afdec3cd3cb763f9cb4f1e93.js": "/leoocast.github.io/lolyugioh/precache-manifest.230dac41afdec3cd3cb763f9cb4f1e93.js",
+    "service-worker.js": "/leoocast.github.io/lolyugioh/service-worker.js",
+    "static/css/main.575c63fe.chunk.css.map": "/leoocast.github.io/lolyugioh/static/css/main.575c63fe.chunk.css.map",
+    "static/js/2.582b4e21.chunk.js.LICENSE.txt": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aefede5.js",
+    "static/js/2.582b4e21.chunk.js",
+    "static/css/main.575c63fe.chunk.css",
+    "static/js/main.e544f8e1.chunk.js"
+  ]
+}
