@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { CardList } from './components/card_list/card_list.component'
 import { SearchBox } from './components/search_box/search_box.component'
-const champUrl = 'http://ddragon.leagueoflegends.com/cdn/10.16.1/data/es_MX/champion.json'
+import { Champs } from './components/championJson'
 
 class App extends Component{
 
@@ -15,7 +15,7 @@ class App extends Component{
   }
 
   async componentDidMount(){
-    const champs = await fetch(champUrl).then(r => r.json())
+    const champs = Champs
 
     this.setState({champs: Object.values(champs.data)})
   }
