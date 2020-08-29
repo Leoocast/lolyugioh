@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c487d172852739519ef0c171beeed4c3",
+    "revision": "237008e945a7b76be6cbea70cf28aa7c",
     "url": "/lolyugioh/index.html"
   },
   {
-    "revision": "22ea4f49d74e9890f300",
+    "revision": "be1c7ea805bf4d335cec",
     "url": "/lolyugioh/static/css/main.575c63fe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lolyugioh/static/js/2.582b4e21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22ea4f49d74e9890f300",
-    "url": "/lolyugioh/static/js/main.ee563c56.chunk.js"
+    "revision": "be1c7ea805bf4d335cec",
+    "url": "/lolyugioh/static/js/main.3c5e3cd9.chunk.js"
   },
   {
     "revision": "d09290e5249602c53f20",

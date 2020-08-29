@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lolyugioh/precache-manifest.7a1d549fc694925f09816ea8c432de31.js"
+  "/lolyugioh/precache-manifest.385a2e7cb9006478c12390eda245b5ce.js"
 );
 
 self.addEventListener('message', (event) => {
