@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card } from '../card/card.component'
-import './card_list.styles.css'
+import './card_list.styles.sass'
 
 export const CardList = ({ champs }) => {
 
