@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/leoocast.github.io/lolyugioh/static/css/main.575c63fe.chunk.css",
-    "main.js": "/leoocast.github.io/lolyugioh/static/js/main.e544f8e1.chunk.js",
-    "main.js.map": "/leoocast.github.io/lolyugioh/static/js/main.e544f8e1.chunk.js.map",
-    "runtime-main.js": "/leoocast.github.io/lolyugioh/static/js/runtime-main.2aefede5.js",
-    "runtime-main.js.map": "/leoocast.github.io/lolyugioh/static/js/runtime-main.2aefede5.js.map",
-    "static/js/2.582b4e21.chunk.js": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js",
-    "static/js/2.582b4e21.chunk.js.map": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js.map",
-    "index.html": "/leoocast.github.io/lolyugioh/index.html",
-    "precache-manifest.230dac41afdec3cd3cb763f9cb4f1e93.js": "/leoocast.github.io/lolyugioh/precache-manifest.230dac41afdec3cd3cb763f9cb4f1e93.js",
-    "service-worker.js": "/leoocast.github.io/lolyugioh/service-worker.js",
-    "static/css/main.575c63fe.chunk.css.map": "/leoocast.github.io/lolyugioh/static/css/main.575c63fe.chunk.css.map",
-    "static/js/2.582b4e21.chunk.js.LICENSE.txt": "/leoocast.github.io/lolyugioh/static/js/2.582b4e21.chunk.js.LICENSE.txt"
+    "main.css": "/lolyugioh/static/css/main.575c63fe.chunk.css",
+    "main.js": "/lolyugioh/static/js/main.ee563c56.chunk.js",
+    "main.js.map": "/lolyugioh/static/js/main.ee563c56.chunk.js.map",
+    "runtime-main.js": "/lolyugioh/static/js/runtime-main.426ef94e.js",
+    "runtime-main.js.map": "/lolyugioh/static/js/runtime-main.426ef94e.js.map",
+    "static/js/2.582b4e21.chunk.js": "/lolyugioh/static/js/2.582b4e21.chunk.js",
+    "static/js/2.582b4e21.chunk.js.map": "/lolyugioh/static/js/2.582b4e21.chunk.js.map",
+    "index.html": "/lolyugioh/index.html",
+    "precache-manifest.7a1d549fc694925f09816ea8c432de31.js": "/lolyugioh/precache-manifest.7a1d549fc694925f09816ea8c432de31.js",
+    "service-worker.js": "/lolyugioh/service-worker.js",
+    "static/css/main.575c63fe.chunk.css.map": "/lolyugioh/static/css/main.575c63fe.chunk.css.map",
+    "static/js/2.582b4e21.chunk.js.LICENSE.txt": "/lolyugioh/static/js/2.582b4e21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2aefede5.js",
+    "static/js/runtime-main.426ef94e.js",
     "static/js/2.582b4e21.chunk.js",
     "static/css/main.575c63fe.chunk.css",
-    "static/js/main.e544f8e1.chunk.js"
+    "static/js/main.ee563c56.chunk.js"
   ]
 }
